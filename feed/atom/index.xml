@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	xml:lang="es"
+	>
+	<title type="text">taller01-palencia</title>
+	<subtitle type="text"></subtitle>
+
+	<updated>2024-07-07T21:41:38Z</updated>
+
+	<link rel="alternate" type="text/html" href="/" />
+	<id>/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="/feed/atom/" />
+
+	<generator uri="https://wordpress.org/" version="6.5.5">WordPress</generator>
+	<entry>
+		<author>
+			<name>taller-01</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[otro post]]></title>
+		<link rel="alternate" type="text/html" href="/otro-post/" />
+
+		<id>/?p=6</id>
+		<updated>2024-07-07T21:41:38Z</updated>
+		<published>2024-07-07T21:41:38Z</published>
+		<category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[aqui va otro post]]></summary>
+
+					<content type="html" xml:base="/otro-post/"><![CDATA[
+<p>aqui va otro post</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="/otro-post/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="/otro-post/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>taller-01</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[Hello world!]]></title>
+		<link rel="alternate" type="text/html" href="/hello-world/" />
+
+		<id>/?p=1</id>
+		<updated>2024-07-07T21:34:41Z</updated>
+		<published>2024-07-07T21:34:41Z</published>
+		<category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></summary>
+
+					<content type="html" xml:base="/hello-world/"><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="/hello-world/#comments" thr:count="1" />
+			<link rel="replies" type="application/atom+xml" href="/hello-world/feed/atom/" thr:count="1" />
+			<thr:total>1</thr:total>
+			</entry>
+	</feed>
